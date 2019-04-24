@@ -1,0 +1,1 @@
+[Rename a long function name to a brief one](./rename-a-function.go)  
