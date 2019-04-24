@@ -15,13 +15,13 @@ The starting point, learn all the basics of the language.
 Declaring variables, calling functions, and all the things you need to know before moving to the next lessons.
 
 
-[Packages, variables, and functions.](Basics/package-variables-functions/pvf-list.md)  
+[Packages, variables, and functions.](tourofgo/Basics/package-variables-functions/pvf-list.md)  
 Learn the basic components of any Go program.
 
 [Flow control statements: for, if, else, switch and defer]()    
 Learn how to control the flow of your code with conditionals, loops, switches and defers.
 
-[More types: structs, slices, and maps.](Basics/more-types-structs-slices-maps/more-types-list.md)  
+[More types: structs, slices, and maps.](tourofgo/Basics/more-types-structs-slices-maps/more-types-list.md)  
 Learn how to define types based on existing ones: this lesson covers structs, arrays, slices, and maps.
 
 
@@ -38,5 +38,5 @@ Go provides concurrency features as part of the core language.
 
 This module goes over goroutines and channels, and how they are used to implement different concurrency patterns.
 
-[Concurrency](./concurrency/concurrency-list.md)  
+[Concurrency](tourofgo/concurrency/concurrency-list.md)  
 Go provides concurrency constructions as part of the core language. This lesson presents them and gives some examples on how they can be used.
