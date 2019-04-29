@@ -4,7 +4,7 @@ Type switch是个什么鬼
 1.go里的type switch不是普通的switch,就是go语言在语法层面为我们设计的类型转换的一种模式。
 2.这里的t:=必须和switch结合在一起.
  */
-package main
+package interface_and_type_switch
 
 import "fmt"
 

@@ -1,7 +1,7 @@
 /*
 我的理解是任何结构体都实现了一个空的接口interface{},所以使用interface{}类型就能够接受任何结构体
  */
-package main
+package interface_and_type_switch
 
 import "fmt"
 

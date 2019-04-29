@@ -1,4 +1,4 @@
-package calc
+package interface_and_type_switch
 
 import "testing"
 
